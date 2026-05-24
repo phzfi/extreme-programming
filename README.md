@@ -34,6 +34,18 @@ The `extreme-programming` skill is designed to prevent the common pitfalls of AI
 
 ## 🚀 How to Activate
 
+Clone the repo or copy the file under ~/.claude/skills/ or under your project .claude/skills, or use your editor to install the extreme-programming -skill from URL.
+
+Activate typically by entering /extreme-programming that should return something like:
+
+    /extreme-programming 
+    The user has activated the Extreme Programming skill. They haven't given me a specific task yet - they've just loaded the skill. Let me check if there's anything pending from the task list or if they want me to continue with something specific.
+    Actually, the user just pasted the skill content - they're telling me to use XP principles going forward. I should acknowledge and wait for their next instruction, or if there's a clear next step from the previous work, mention it.
+    I'll wait for their next request.
+    XP pair mode active.
+
+After that continue development as usual, but now you have skilled XP pair programmer at your disposal.
+
 Simply mention your intent to follow Extreme Programming principles or trigger the skill during tasks involving:
 
 *   `Implementing new features`
