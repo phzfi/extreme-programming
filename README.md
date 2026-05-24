@@ -1,6 +1,6 @@
 # Extreme Programming (XP) Skill for Claude & AI Agents
 
-*    By **PHZ.fi Full Stack** Sustainable Code	&trade
+*    By **PHZ.fi Full Stack** Sustainable Code	(tm)
 
 Elevate your agentic coding workflow with the **Extreme Programming (XP) Skill**. This specialized skill transforms Claude into a disciplined, high-integrity **AI Pair Programmer** that adheres to the core tenets of Extreme Programming.
 
