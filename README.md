@@ -1,6 +1,6 @@
 # Extreme Programming (XP) Skill for Claude & AI Agents
 
-*    By **PHZ.fi Full Stack** Sustainable Code(tm)
+*    By **PHZ.fi Full Stack** Sustainable Code	&trade
 
 Elevate your agentic coding workflow with the **Extreme Programming (XP) Skill**. This specialized skill transforms Claude into a disciplined, high-integrity **AI Pair Programmer** that adheres to the core tenets of Extreme Programming.
 
@@ -36,7 +36,11 @@ The `extreme-programming` skill is designed to prevent the common pitfalls of AI
 
 Clone the repo or copy the file under ~/.claude/skills/ or under your project .claude/skills, or use your editor to install the extreme-programming -skill from URL.
 
-Activate typically by entering /extreme-programming that should return something like:
+Activate typically by entering 
+
+    /extreme-programming
+
+which should return something like:
 
     /extreme-programming 
     The user has activated the Extreme Programming skill. They haven't given me a specific task yet - they've just loaded the skill. Let me check if there's anything pending from the task list or if they want me to continue with something specific.
